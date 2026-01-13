@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Episode 1: The Genesis of Blockchain",
+        "description": "In this episode, Meta-David explores the origins of blockchain technology and its impact on the digital world.",
+        "duration": "13:00",
+        "date": "Wed, 11 Jan 2023 9:00 PM",
+        "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "coverUrl": "assets/images/cover.png"
+    },
+    {
+        "id": "2",
+        "title": "Episode 2: Decentralized Future",
+        "description": "Meta-David discusses the potential of a decentralized internet and what it means for privacy and security.",
+        "duration": "15:20",
+        "date": "Wed, 18 Jan 2023 9:00 PM",
+        "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "coverUrl": "assets/images/cover.png"
+    },
+    {
+        "id": "3",
+        "title": "Episode 3: Smart Contracts Simplified",
+        "description": "A deep dive into smart contracts: how they work and why they are the backbone of DeFi.",
+        "duration": "18:45",
+        "date": "Wed, 25 Jan 2023 9:00 PM",
+        "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "coverUrl": "assets/images/cover.png"
+    },
+    {
+        "id": "4",
+        "title": "Episode 4: Navigating the NFT Space",
+        "description": "Meta-David shares insights on the NFT craze and how to separate the signal from the noise.",
+        "duration": "22:10",
+        "date": "Wed, 01 Feb 2023 9:00 PM",
+        "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "coverUrl": "assets/images/cover.png"
+    }
+]
